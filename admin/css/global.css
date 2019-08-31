@@ -1,0 +1,17 @@
+.form-container{
+	position: absolute;
+	top: 100px;
+	background : #fff;
+	padding: 30px;
+	border-radius: 10px;
+	box-shadow : 0px 0px 10px 0px #000; 
+}
+
+.kotak-daftar{
+	
+	top: 100px;
+	background : #fff;
+	padding: 30px;
+	border-radius: 10px;
+	box-shadow : 0px 0px 10px 0px #000; 
+}
